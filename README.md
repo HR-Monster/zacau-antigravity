@@ -49,6 +49,10 @@ Zacau › **Settings** › **Integrations** › **Antigravity** has a "Copy conf
 
 ## Sign in
 
+**CLI (`agy`):** run `agy`, open `/plugin`, expand **zacau** under **Installed**, and choose **Sign in**. Then sign in to Zacau in the browser.
+
+**Antigravity App:**
+
 1. Antigravity › **Customizations** › **Installed** › **MCP Servers** › `zacau_tasks` › **Authenticate**
 2. Sign in to Zacau in the browser window that opens.
 3. Copy the code, paste it into **Enter authorization code** in Antigravity, then **Submit**.
@@ -62,5 +66,5 @@ Use either:
 
 ## Privacy and support
 
-- Privacy policy: TODO
-- Support: TODO
+- Privacy policy: https://zacau.com/privacy
+- Support: [admin@zacau.com](mailto:admin@zacau.com)
