@@ -1,0 +1,20 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "zacau",
+  "displayName": "Zacau",
+  "version": "0.1.0",
+  "description": "Plan, create and track your Zacau tasks, projects and captures from Antigravity. Sign in once with your Zacau account; no API keys needed.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "What do I have to do today in Zacau?",
+    "Create a Zacau task to review the PR tomorrow",
+    "Summarize my overdue Zacau tasks"
+  ],
+  "author": {
+    "name": "Zacau",
+    "url": "https://zacau.com"
+  },
+  "homepage": "https://zacau.com",
+  "repository": "https://github.com/HR-Monster/zacau-antigravity",
+  "keywords": ["tasks", "productivity", "project-management", "todo", "mcp"]
+}
